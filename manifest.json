@@ -7,7 +7,7 @@
     "description": "Allow to go to previous or next page by right clicking on tab. (Allow for ex got previous listned song on yt and stay focus on your page)",
   
     "icons": {
-      "48": "mouse.png"
+      "48": "icons/mouse.png"
     },
   
     "content_scripts": [
@@ -15,7 +15,13 @@
         "matches": ["*://*.mozilla.org/*"],
         "js": ["RCprevious.js"]
       }
-    ]
-  
+    ],
+
+    "permissions": [
+		"activeTab",
+		"contextMenus",
+		"tabs",
+        "menus"
+	]
   }
   

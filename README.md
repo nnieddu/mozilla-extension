@@ -1,7 +1,8 @@
 # mozilla-extension
+
 Add "previous" or "next" option when right clicking on tab.
 
-Todo : 
+#### Todo : 
 resize/check mouse base icon (need 48*48).
 add .svc (auto resize) icon for contextuel menu.
 

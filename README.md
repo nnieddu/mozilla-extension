@@ -2,7 +2,7 @@
   
 Add "previous" or "next" option when right clicking on tab.  
 
-Project aim : when working/reading something on a web page and listen music for ex on youtube in a different tab i found painful and 'focus breaking' to go back on the yt tab just to listen the same song again (previous). I want to be able to do that will staying on the desired tab by juste right clicking on the yt tab.
+Project aim : when working/reading something on a web page and listen music for ex on youtube in a different tab i found painful to go back on the yt tab just to listen the same song again (previous). I want to be able to do that will staying on the desired tab by juste right clicking on the yt tab.
 
 #### Todo :  
 -resize/check mouse base icon (need 48*48).  
